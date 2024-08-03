@@ -1,7 +1,7 @@
-import { expect } from 'chai';
+import { expect, describe, test } from 'vitest';
 
 describe('cheerio function', () => {
-    it('pass the test', () => {
+    test('pass the test', () => {
         expect(true).to.eq(true);
     });
 });
