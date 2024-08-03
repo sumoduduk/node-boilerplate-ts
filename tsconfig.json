@@ -8,7 +8,6 @@
     "strict": true,
     /* If transpiling with Typescript */
     "moduleResolution": "NodeNext",
-    "module": "NodeNext",
     "sourceMap": true,
     
     "esModuleInterop": true,
